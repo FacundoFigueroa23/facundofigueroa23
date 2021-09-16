@@ -1,5 +1,6 @@
-### Hi there 👋, I'm Facundo Figueroa and I'm a full stack developer.
-
+### Hi there 👋, I'm Facu and I'm a full stack developer.
+---
+### Tecnologies
 <!--
 **FacundoFigueroa23/facundofigueroa23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
