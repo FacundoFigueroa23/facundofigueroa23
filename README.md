@@ -22,12 +22,13 @@
 <br/>
 
 ### Henry Pokemon App
-<div>
+<p>
   <img src="../assets/HenryPokemonApp/Landing.jfif" alt="Landing" />
   <img src="../assets/HenryPokemonApp/Home.jfif" alt="Home" />
   <img src="../assets/HenryPokemonApp/Detail.jfif" alt="Detail" />
-  <img src="../assets/HenryPokemonApp/Create.jfif" alt="Create" />
-</div>
+  <img src="https://github.com/FacundoFigueroa23/facundofigueroa23/blob/main/assets/HenryPokemonApp/Create.png" alt="Create" />
+</p>
+
 ---
 ### 📫 Contacto
 <br />
