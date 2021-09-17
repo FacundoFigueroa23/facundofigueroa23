@@ -19,9 +19,17 @@
 
 ---
 ### 📌 Proyectos
+<br/>
 
+### Henry Pokemon App
+<div>
+  <img src="../assets/HenryPokemonApp/Landing.jfif" alt="Landing" />
+  <img src="../assets/HenryPokemonApp/Home.jfif" alt="Home" />
+  <img src="../assets/HenryPokemonApp/Detail.jfif" alt="Detail" />
+  <img src="../assets/HenryPokemonApp/Create.jfif" alt="Create" />
+</div>
 ---
-### 📎 Contacto
+### 📫 Contacto
 <br />
 <span>
     <a href="https://www.linkedin.com/in/facundo-figueroa-dev" ><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin logo" height="50px" >
