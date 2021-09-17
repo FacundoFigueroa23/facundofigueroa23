@@ -23,10 +23,10 @@
 
 ### Henry Pokemon App
 <p>
-  <a><img src="https://github.com/FacundoFigueroa23/facundofigueroa23/blob/main/images/LandingPokemon.png?raw=true" alt="Landing" ></a>
-  <a><img src="https://github.com/FacundoFigueroa23/facundofigueroa23/blob/main/images/HomePokemon.png?raw=true" alt="Home" ></a>
-  <a><img src="https://github.com/FacundoFigueroa23/facundofigueroa23/blob/main/images/DetailPokemon.png?raw=true" alt="Detail" ></a>
-  <a><img src="https://github.com/FacundoFigueroa23/facundofigueroa23/blob/main/images/CreatePokemon.png?raw=true" alt="Create" ></a>
+  <a><img height="50%" width="45%" src="https://github.com/FacundoFigueroa23/facundofigueroa23/blob/main/images/LandingPokemon.png?raw=true" alt="Landing" ></a>
+  <a><img height="50%" width="45%" src="https://github.com/FacundoFigueroa23/facundofigueroa23/blob/main/images/HomePokemon.png?raw=true" alt="Home" ></a>
+  <a><img height="50%" width="45%" src="https://github.com/FacundoFigueroa23/facundofigueroa23/blob/main/images/DetailPokemon.png?raw=true" alt="Detail" ></a>
+  <a><img height="50%" width="45%" src="https://github.com/FacundoFigueroa23/facundofigueroa23/blob/main/images/CreatePokemon.png?raw=true" alt="Create" ></a>
 </p>
 
 ---
