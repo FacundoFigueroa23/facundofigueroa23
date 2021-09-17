@@ -23,10 +23,10 @@
 
 ### Henry Pokemon App
 <p>
-  <img src="../assets/HenryPokemonApp/Landing.jfif" alt="Landing" />
-  <img src="../assets/HenryPokemonApp/Home.jfif" alt="Home" />
-  <img src="../assets/HenryPokemonApp/Detail.jfif" alt="Detail" />
-  <img src="https://github.com/FacundoFigueroa23/facundofigueroa23/blob/main/assets/HenryPokemonApp/Create.png" alt="Create" />
+  <a><img src="https://github.com/FacundoFigueroa23/facundofigueroa23/blob/main/assets/LandingPokemon.png" alt="Landing" ></a>
+  <img src="https://github.com/FacundoFigueroa23/facundofigueroa23/blob/main/assets/HomePokemon.png" alt="Home" >
+  <img src="https://github.com/FacundoFigueroa23/facundofigueroa23/blob/main/assets/DetailPokemon.png" alt="Detail" >
+  <img src="https://github.com/FacundoFigueroa23/facundofigueroa23/blob/main/assets/CreatePokemon.png" alt="Create" >
 </p>
 
 ---
