@@ -7,13 +7,13 @@
     <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="JS logo" height="50px">
     <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML logo" height="50px">
     <img src="https://www.pngkey.com/png/full/347-3470911_css3-html-css-js-logo-white.png" alt="CSS logo" height="50px">
-    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="Node.JS logo" height="50px" >
-    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="Express.JS logo" height="50px" >
-    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="React.JS logo" height="50px" >
-    <img src="https://d33wubrfki0l68.cloudfront.net/45ed46a4aa7300c35494e9fc23ff4c1f61f62ab7/b7c39/static/redux_logo_2-24410881e63c96340db17ec232dfd1bf.png" alt="Redux logo" height="50px" >
-    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" alt="PostgreSQL logo" height="50px" >
-    <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg" alt="Sequelize logo" height="50px" >
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git logo" height="50px" >
+    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.JS logo" height="50px" >
+    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.JS logo" height="50px" >
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React.JS logo" height="50px" >
+    <img src="https://javascript.tutorialhorizon.com/files/2016/06/redux-logo.png" alt="Redux logo" height="50px" >
+    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL logo" height="50px" >
+    <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" alt="Sequelize logo" height="50px" >
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git logo" height="50px" >
   </code>
 </p>
 
