@@ -1,4 +1,5 @@
 ### Hola 👋, soy Facu y soy Full Stack Developer.
+### Por cuestiones prácticas me inclino hacia el back, pero me gustan y estoy capacitado en ambos perfiles.
 ---
 ### 💻 Tecnologías
 <br />
@@ -35,7 +36,7 @@
 <span>
     <a href="https://www.linkedin.com/in/facundo-figueroa-dev" ><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin logo" height="50px" >
     <a href="mailto:facu.figueroa.dev@gmail.com" ><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail logo" height="50px" >
-    <a href="https://wa.me/5493515113032?text=Hola%2C+soy+Facu%2C+%C2%BFen+qu%C3%A9+puedo+ayudarte%3F" ><img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" alt="Wsp logo" height="50px" >
+    <a href="https://wa.me/5493515113032?text=Hola+Facu%2C+te+hago+una+consulta" ><img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" alt="Wsp logo" height="50px" >
 </span>
 
 <!--
