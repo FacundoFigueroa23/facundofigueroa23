@@ -1,7 +1,11 @@
 ### Hola 👋, soy Facu y soy Full Stack Developer.
----
+
+<hr/>
+
 ### 💻 Tecnologías
-<br />
+
+<br/>
+
 <p>
   <code>
     <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="JS logo" height="50px">
@@ -17,11 +21,14 @@
   </code>
 </p>
 
----
+<hr/>
+
 ### 📌 Proyectos
+
 <br/>
 
 ### Henry Pokemon App
+
 <p>
   <a><img height="50%" width="45%" src="https://github.com/FacundoFigueroa23/facundofigueroa23/blob/main/images/LandingPokemon.png?raw=true" alt="Landing" ></a>
   <a><img height="50%" width="45%" src="https://github.com/FacundoFigueroa23/facundofigueroa23/blob/main/images/HomePokemon.png?raw=true" alt="Home" ></a>
@@ -29,26 +36,26 @@
   <a><img height="50%" width="45%" src="https://github.com/FacundoFigueroa23/facundofigueroa23/blob/main/images/CreatePokemon.png?raw=true" alt="Create" ></a>
 </p>
 
----
+<hr/>
+
+### 📚 Estadísticas
+
+<br/>
+
+### [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FacundoFigueroa23&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
+
+### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FacundoFigueroa23&count_private=true&show_icons=true&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<hr/>
+
 ### 📫 Contacto
-<br />
+
+<br/>
+
 <span>
     <a href="https://www.linkedin.com/in/facundo-figueroa-dev" ><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin logo" height="50px" >
     <a href="mailto:facu.figueroa.dev@gmail.com" ><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail logo" height="50px" >
-    <a href="https://wa.me/5493515113032?text=Hola%2C+soy+Facu%2C+%C2%BFen+qu%C3%A9+puedo+ayudarte%3F" ><img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" alt="Wsp logo" height="50px" >
 </span>
-
-<!--
-**FacundoFigueroa23/facundofigueroa23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
