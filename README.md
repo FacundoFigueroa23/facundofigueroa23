@@ -1,10 +1,9 @@
-### Hola 👋, soy Facu y soy Full Stack Developer.
+### 👀 Sobre mi
+### Soy un apasionado por la tecnología al que le gustan los desafíos, aprender y superarse cada día. Personalmente, me gusta más el backend, pero me gustan y estoy capacitado en ambos perfiles.
 
 <hr/>
 
 ### 💻 Tecnologías
-
-<br/>
 
 <p>
   <code>
@@ -25,9 +24,7 @@
 
 ### 📌 Proyectos
 
-<br/>
-
-### Henry Pokemon App
+<a href="https://github.com/FacundoFigueroa23/Henry-Pokemon-App" target="_blank">Henry Pokemon App</a>
 
 <p>
   <a><img height="50%" width="45%" src="https://github.com/FacundoFigueroa23/facundofigueroa23/blob/main/images/LandingPokemon.png?raw=true" alt="Landing" ></a>
@@ -40,11 +37,7 @@
 
 ### 📚 Estadísticas
 
-<br/>
-
 ### [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FacundoFigueroa23&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
-<br/>
 
 ### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FacundoFigueroa23&count_private=true&show_icons=true&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -52,8 +45,6 @@
 <hr/>
 
 ### 📫 Contacto
-
-<br/>
 
 <span>
     <a href="https://www.linkedin.com/in/facundo-figueroa-dev" ><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin logo" height="50px" >
