@@ -16,6 +16,8 @@
     <img src="https://javascript.tutorialhorizon.com/files/2016/06/redux-logo.png" alt="Redux logo" height="50px" >
     <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL logo" height="50px" >
     <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" alt="Sequelize logo" height="50px" >
+    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB logo" height="50px" >
+    <img src="https://opencollective-production.s3-us-west-1.amazonaws.com/7a00cdd0-fae4-11e7-ae09-7f36f712693a.png" alt="Mongoose logo" height="50px" >
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git logo" height="50px" >
   </code>
 </p>
