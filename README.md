@@ -1,4 +1,4 @@
-<h2>Hi everyone 👋, I'm Facu and I'm Full Stack Developer.</h2>
+<h2 style="text-align:center">Hi everyone 👋, I'm Facu and I'm Full Stack Developer.</h2>
 
 <p>I'm passionate about technology who likes challenges, learning and improving myself every day.</p>
 
@@ -27,18 +27,32 @@
 
 <h3>📌 Projects</h3>
 
-<h4><a href="https://github.com/FacundoFigueroa23/Henry-Pokemon-App" target="_blank">Henry Pokemon App</a></h4>
+<a href="https://github.com/FacundoFigueroa23/Henry-Pokemon-App" target="_blank" style="text-decoration:none; text-align:center">
+  <h4>Henry Pokemon App</h4>
+</a>
 
-<p>
+<p style="text-align:center">
   <a><img height="50%" width="45%" src="https://github.com/FacundoFigueroa23/facundofigueroa23/blob/main/images/HenryPokemon/LandingPokemon.png?raw=true" alt="Landing" ></a>
   <a><img height="50%" width="45%" src="https://github.com/FacundoFigueroa23/facundofigueroa23/blob/main/images/HenryPokemon/HomePokemon.png?raw=true" alt="Home" ></a>
   <a><img height="50%" width="45%" src="https://github.com/FacundoFigueroa23/facundofigueroa23/blob/main/images/HenryPokemon/DetailPokemon.png?raw=true" alt="Detail" ></a>
   <a><img height="50%" width="45%" src="https://github.com/FacundoFigueroa23/facundofigueroa23/blob/main/images/HenryPokemon/CreatePokemon.png?raw=true" alt="Create" ></a>
 </p>
 
-<h4><a href="https://github.com/FacundoFigueroa23/Weather-App" target="_blank">Weather App</a></h4>
+<a href="https://github.com/FacundoFigueroa23/Weather-App" target="_blank" style="text-decoration:none; text-align:center">
+  <h4>Weather App</h4>
+</a>
 
-<a><img height="50%" width="45%" src="https://github.com/FacundoFigueroa23/facundofigueroa23/blob/main/images/WeatherApp/Weather-app.jpg?raw=true" alt="Home" ></a>
+<p style="text-align:center">
+  <a><img height="50%" width="45%" src="https://github.com/FacundoFigueroa23/facundofigueroa23/blob/main/images/WeatherApp/Weather-app.jpg?raw=true" alt="Home-WeatherApp" ></a>
+</p>
+
+<a href="https://github.com/FacundoFigueroa23/To-Do-App" target="_blank" style="text-decoration:none; text-align:center">
+  <h4>To Do App</h4>
+</a>
+
+<p style="text-align:center">
+  <a><img height="50%" width="45%" src="https://github.com/FacundoFigueroa23/facundofigueroa23/blob/main/images/ToDoApp/To-do-app.jpg?raw=true" alt="Home-ToDoApp" ></a>
+</p>
 
 <hr/>
 
