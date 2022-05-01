@@ -56,14 +56,6 @@
 
 <hr/>
 
-<h3>📚 Stats</h3>
-
-### [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FacundoFigueroa23&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
-### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FacundoFigueroa23&count_private=true&show_icons=true&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<hr/>
 
 <h3>📫 Contact with me</h3>
 
