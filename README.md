@@ -2,10 +2,9 @@
 
 Soy una persona a la que le apasiona la tecnología, le gustan los desafíos, y sobre todo, aprender y mejorar cada día. Actualmente me encuentro en búsqueda de mi primer trabajo en el que pueda iniciarme y desarrollarme como profesional.
 
-##
+### 💻 Tecnologías en las que he trabajado 💻
 
-## 💻 Tecnologías en las que he trabajado 💻
-
+<p>
 <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="JS logo" height="40px">
 Javascript
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML logo" height="40px">
@@ -30,10 +29,11 @@ MongoDB
 Mongoose
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git logo" height="40px" >
 Git
+</p>
 
 ##
 
-## 📌 Proyectos 📌
+### 📌 Proyectos 📌
 
 [To Do App](https://github.com/FacundoFigueroa23/To-Do-App)
 <p>
@@ -69,7 +69,7 @@ Git
 
 ## 
 
-## 📫 Contáctame 📫
+### 📫 Contáctame 📫
 
 [<img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail logo" height="40px" >](mailto:facu.figueroa.dev@gmail.com)
 
