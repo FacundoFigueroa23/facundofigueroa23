@@ -11,7 +11,7 @@ Javascript
 React
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML logo" height="40px">
 HTML
-<img src="https://www.pngkey.com/png/full/347-3470911_css3-html-css-js-logo-white.png" alt="CSS logo" height="40px">
+<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS logo" height="40px">
 CSS
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.JS logo" height="40px" >
 NodeJS
