@@ -1,12 +1,14 @@
-# Hola 👋, soy Facu y soy Desarrollador Full Stack.
+# Hola 👋, soy Facu y soy Desarrollador Frontend.
 
-Soy una persona a la que le apasiona la tecnología, le gustan los desafíos, y sobre todo, aprender y mejorar cada día. Actualmente me encuentro en búsqueda de mi primer trabajo en el que pueda iniciarme y desarrollarme como profesional.
+Soy una persona a la que le apasiona la tecnología, le gustan los desafíos, y sobre todo, aprender y mejorar cada día.
 
 ### 💻 Tecnologías en las que he trabajado 💻
 
 <p>
 <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="JS logo" height="40px">
 Javascript
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React.JS logo" height="40px" >
+React
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML logo" height="40px">
 HTML
 <img src="https://www.pngkey.com/png/full/347-3470911_css3-html-css-js-logo-white.png" alt="CSS logo" height="40px">
@@ -15,8 +17,6 @@ CSS
 NodeJS
 <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.JS logo" height="40px" >
 Express
-<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React.JS logo" height="40px" >
-React
 <img src="https://javascript.tutorialhorizon.com/files/2016/06/redux-logo.png" alt="Redux logo" height="40px" >
 Redux
 <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL logo" height="40px" >
