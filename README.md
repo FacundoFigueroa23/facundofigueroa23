@@ -17,16 +17,16 @@ CSS
 NodeJS
 <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.JS logo" height="40px" >
 Express
-<img src="https://javascript.tutorialhorizon.com/files/2016/06/redux-logo.png" alt="Redux logo" height="40px" >
+<img src="https://res.cloudinary.com/mis-fotos/image/upload/v1654359980/Icons/Redux_c7aeki.png" alt="Redux logo" height="40px" >
 Redux
 <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL logo" height="40px" >
 PostgreSQL
-<img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" alt="Sequelize logo" height="40px" >
-Sequelize
+<!-- <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" alt="Sequelize logo" height="40px" >
+Sequelize -->
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB logo" height="40px" >
 MongoDB
-<img src="https://opencollective-production.s3-us-west-1.amazonaws.com/7a00cdd0-fae4-11e7-ae09-7f36f712693a.png" alt="Mongoose logo" height="40px" >
-Mongoose
+<!-- <img src="https://opencollective-production.s3-us-west-1.amazonaws.com/7a00cdd0-fae4-11e7-ae09-7f36f712693a.png" alt="Mongoose logo" height="40px" >
+Mongoose -->
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git logo" height="40px" >
 Git
 </p>
