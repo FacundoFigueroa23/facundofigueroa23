@@ -21,12 +21,8 @@ Express
 Redux
 <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL logo" height="40px" >
 PostgreSQL
-<!-- <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" alt="Sequelize logo" height="40px" >
-Sequelize -->
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB logo" height="40px" >
 MongoDB
-<!-- <img src="https://opencollective-production.s3-us-west-1.amazonaws.com/7a00cdd0-fae4-11e7-ae09-7f36f712693a.png" alt="Mongoose logo" height="40px" >
-Mongoose -->
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git logo" height="40px" >
 Git
 </p>
@@ -73,4 +69,4 @@ Git
 
 [<img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail logo" height="40px" >](mailto:facu.figueroa.dev@gmail.com)
 
-[<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin logo" height="40px" >](https://www.linkedin.com/in/facundo-figueroa-dev)
+[<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin logo" height="40px" >](https://www.linkedin.com/in/facu-figueroa)
