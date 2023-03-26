@@ -3,7 +3,6 @@
 ### Soy una persona a la que le apasiona la tecnología, le gustan los desafíos, y sobre todo, aprender y mejorar cada día.
 
 <br>
-<br>
 
 <h2 align="center">💻 Tecnologías en las que he trabajado 💻</h2>
 
