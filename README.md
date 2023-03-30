@@ -1,6 +1,7 @@
 # ¡Hola 👋! Soy Facu, Frontend Developer.
 
-### Soy una persona a la que le apasiona la tecnología, le gustan los desafíos, y sobre todo, aprender y mejorar cada día.
+* ### Soy una persona a la que le apasiona la tecnología, le gustan los desafíos y aprender y mejorar cada día.
+* ### Actualmente me encuentro aprendiendo Python.
 
 <br>
 
