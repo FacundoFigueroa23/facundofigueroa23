@@ -1,7 +1,8 @@
-# ¡Hola 👋! Soy Facu, Frontend Developer.
+# ¡Hola 👋! Soy Facu, Full Stack Developer.
 
-* ### Soy una persona a la que le apasiona la tecnología, le gustan los desafíos y aprender y mejorar cada día.
+* ### Soy una persona muy curiosa a la que le gustan los desafíos, resolver problemas y superarse cada día.
 * ### Actualmente me encuentro aprendiendo Python.
+* ### Hobbies: me gustan los deportes (el futbol sobre todo) y ver series y películas.
 
 <br>
 
