@@ -2,7 +2,6 @@
 
 * ### Soy una persona muy curiosa a la que le gustan los desafíos, resolver problemas y superarse cada día.
 * ### Actualmente me encuentro aprendiendo Python.
-* ### Hobbies: me gustan los deportes (el futbol sobre todo) y ver series y películas.
 
 <br>
 
@@ -14,10 +13,12 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-ECD53F?style=for-the-badge&logo=python&logoColor=3776AB" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-FFF?style=for-the-badge&logo=express&logoColor=000" />
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-FFF?style=for-the-badge&logo=flask&logoColor=000" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
